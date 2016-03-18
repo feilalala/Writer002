@@ -4,7 +4,7 @@
 - 执行意图：如果那么
 - 同侪压力：被动进步
 - 五大元学科：编程、文艺创作、认知&神经&心理科学、数学、网络科学
-- 自我决定论(奖赏会惩罚人)[http://note.openmindclub.com/science/YZP-punished-by-rewards.html]
+- 自我决定论 [奖赏会惩罚人](http://note.openmindclub.com/science/YZP-punished-by-rewards.html)
 - 刻意练习
 
 ####开智元规范：开智倡导的行为规范
